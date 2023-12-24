@@ -1,6 +1,6 @@
 {
     "name": "dulce/statamic-adobe-fonts",
-    "description": "Manage self-hosted Adobe Typekit Fonts in Laravel apps",
+    "description": "Manage self-hosted Adobe Typekit Fonts in Statamic",
     "type": "statamic-addon",
     "license": "MIT",
     "autoload": {
