@@ -25,5 +25,10 @@
                 "Dulce\\StatamicAdobeFonts\\ServiceProvider"
             ]
         }
+    },
+    "config": {
+        "allow-plugins": {
+            "pixelfear/composer-dist-plugin": true
+        }
     }
 }
